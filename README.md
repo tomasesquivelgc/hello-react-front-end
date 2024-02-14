@@ -30,7 +30,7 @@
 
 # 📖 Hello Rails-React front-end <a name="about-project"></a>
 
-**Hello Rails-React front-end** is a random greet generator that gets messages from a [backend API](https://github.com/tomasesquivelgc/hello-rails-back-end/pull/1). This front end works with React&Redux to manage the state of the greeting.
+**Hello Rails-React front-end** is a random greet generator that gets messages from a [backend API](https://github.com/tomasesquivelgc/hello-rails-back-end). This front end works with React&Redux to manage the state of the greeting.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,7 +78,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project:
 
- - Please remember to execute [the backend server](https://github.com/tomasesquivelgc/hello-rails-back-end/pull/1)
+ - Please remember to execute [the backend server](https://github.com/tomasesquivelgc/hello-rails-back-end)
 
 ### Setup
 
