@@ -28,7 +28,6 @@ const greetingsSlice = createSlice({
   extraReducers: (builder) => {
     builder.addCase(getGreetings.fulfilled, (state, action) => {
       state.greetingItem = action.payload;
-      
     });
     builder.addCase(getGreetings.rejected, (state, action) => {
       state.error = action.payload;
